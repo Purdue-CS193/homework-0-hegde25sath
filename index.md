@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
 
 - Bulleted
 - List
@@ -22,6 +23,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+$f(x)$ LaTeX? 
 
 [Link](url) and ![Image](src)
 ```
